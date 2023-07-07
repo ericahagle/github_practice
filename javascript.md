@@ -1,2 +1,3 @@
+# Some Stuff About JS
 1. JavaScript is COOL
 1. Sometimes...
